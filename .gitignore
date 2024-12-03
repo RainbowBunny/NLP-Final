@@ -1,0 +1,13 @@
+**__pycache__**
+.vscode
+bookcorpus
+checkpoints
+glove
+knowledge_bm25
+**.pt
+**.csv
+raw.txt
+**.parquet
+**.npz
+**.png
+**.pickle
